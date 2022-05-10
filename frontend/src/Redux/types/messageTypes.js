@@ -1,0 +1,3 @@
+export const NEWMESSAGE = "NEWMESSAGE";
+export const GETMESSAGES = "GETMESSAGES";
+export const MESSAGEFAIL = "MESSAGEFAIL"

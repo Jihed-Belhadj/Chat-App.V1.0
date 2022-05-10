@@ -1,0 +1,6 @@
+export const LOGIN = "LOGIN"
+export const REGISTER = "REGISTER"
+export const GETALLUSERS = "GETALLUSERS"
+export const FAIL = "FAIL"
+export const GETCURRENT="GETCURRENT"
+export const LOGOUT="LOGOUT"
